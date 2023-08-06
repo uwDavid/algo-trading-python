@@ -1,6 +1,10 @@
 # Algorithmic Trading in Python
 
-This repository
+Following tutorial by [Nick McCullum - Algorithmic Trading in Python](https://www.youtube.com/watch?v=xfzGZB4HhEE&t=17s)
+[Source Github Repository](https://github.com/nickmccullum/algorithmic-trading-python)
+
+## Using Python and Jupyter Notebooks
+
 
 ## Course Outline
 
